@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">COFFEED-19</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="acerca">Acerca de...</string>
+    <string name="desa">Desarrolladores</string>
+    <string name="manual">Manual de usuario</string>
+    <string name="equidesa">Equipo desarrollador</string>
+    <string name="texto_largo">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas \"Letraset\", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</string>
+
+
+    <string name="texto_desarrolladores">
+        COFFEED-19 versión 1.0\n
+        Emprendimiento de Base Tecnológica\n\n
+        Franco Cardona juan Camilo COD. 1621020539 - Programador\n
+        Paguatian Ome Mario Alexander COD. 1721981238 - Programador\n
+        Paba Lobo Astrid Milena COD. 1621024218 - Texter y diseñadora\n
+        Ruiz Llano Anyeli Vianed COD. 1811981289 - Analista\n\n
+        COFFED-19 versión 1.0\n\n
+        Institución Universitaria Politécnico Gran Colombiano
+
+    </string>
+
+    <string-array name="sintomas">
+        <item>Seleccione</item>
+        <item>Tos</item>
+        <item>Fiebre</item>
+        <item>Secresión Nasal</item>
+        <item>Dificultad para respirar</item>
+        <item>Dolor de garganta</item>
+    </string-array>
+
+    <string-array name="documento">
+        <item>Seleccione</item>
+        <item>Cédula de ciudadanía</item>
+        <item>Targeta de identidad</item>
+        <item>Registro civil</item>
+
+    </string-array>
+
+    <string-array name="temperatura">
+        <item>Seleccione</item>
+        <item>Normal (35 a 37)</item>
+        <item>Igual o mayor a 38</item>
+    </string-array>
+
+</resources>
